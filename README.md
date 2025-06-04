@@ -1,4 +1,4 @@
-# Ex2
+# graph_alogorithm_with_gui
 We will first explain about the basic classes:
 Node:
 We implement all constructor interface functions and from pos id to the class fields: x, y, z, pos, str, tag, w
